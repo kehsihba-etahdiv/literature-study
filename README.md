@@ -7,5 +7,15 @@ my current understanding of hive mind : even the humans who think they are propa
 
 ### remainder to future me - 
 ````
-read geogre orwell
+authors:-
+1.geogre orwell
+2.brave new world's author
+3. franrinheit 451 , ray bradbury
+
+books:-
+1. animal farm
+2. death of privacy and truth
+3. brave new world
+4.parable of the sower
+5. hunger games
 ````
