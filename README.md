@@ -21,6 +21,10 @@ books:-
 
 6. I have no mouth and i must scream
 
+book which have main message on hindu mythology and stuff ; from Wendy Doniger :-
+1. The Origins of Evil in Hindu Mythology
+2. The Hindus: An Alternative History
+
 mangas:-
 1. monster
 2. 20th century boy
