@@ -10,24 +10,26 @@ my current understanding of hive mind : even the humans who think they are propa
 authors:-
 1.geogre orwell
 2.brave new world's author
-3. franrinheit 451 , ray bradbury
+3.franrinheit 451 , ray bradbury
+
+4.peter turchin (rise and fail of nations books with history trends)
 
 books:-
-1. animal farm
-2. death of privacy and truth
-3. brave new world
+1.animal farm
+2.death of privacy and truth
+3.brave new world
 4.parable of the sower
-5. hunger games
+5.hunger games
 
-6. I have no mouth and i must scream
+6.I have no mouth and i must scream
 
 mangas:-
-1. monster
-2. 20th century boy
+1.monster
+2.20th century boy
 
-3. kingdom (chinese kingdoms in centuries of war)
+3.kingdom (chinese kingdoms in centuries of war)
 
 book which have main message on hindu mythology and stuff ; from Wendy Doniger :-
-1. The Origins of Evil in Hindu Mythology
-2. The Hindus: An Alternative History
+1.The Origins of Evil in Hindu Mythology
+2.The Hindus: An Alternative History
 ````
