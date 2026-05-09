@@ -5,6 +5,21 @@ Main aim is , to find if humans were same as they are today or were bit good in 
 
 my current understanding of hive mind : even the humans who think they are propagating there idealogy or mission , even them themself are slave to hive mind mentality as all there actions are based on one main theme i.e trying to maximize there personal idea/ambition/stuff. top players or the ones been controlled , both are humans and both are slaves to hive mind mentality of trying to maximize profits . profit does not means one single entity and it's meaning can be anything the reader wants to be
 
+### poker books and software 
+````
+Priority,Book Title,Focus Area,Why It's Essential
+#1,The Theory of Poker by David Sklansky,Fundamental Thinking & Concepts,"The foundation. Teaches how to think about poker (Fundamental Theorem, deception, odds, psychology)."
+#2,Applications of No-Limit Hold'em by Matthew Janda,Advanced Strategy & GTO,One of the best modern books for deep NLHE theory and balanced play.
+#3,Modern Poker Theory by Michael Acevedo,GTO & Solver Concepts,Excellent for understanding solver-based strategies.
+#4,The Mathematics of Poker by Bill Chen & Jerrod Ankenman,Pure Math & Probabilities,"Deep dive into EV, combinatorics, game theory (your ""math/card counting"" side)."
+Mental Game,The Mental Game of Poker (Vol 1 & 2) by Jared Tendler,"Psychology, Tilt, Mindset",Critical for long-term mastery and handling variance.
+
+
+Tool Type,Best Recommendation,Purpose,Notes
+Tracker + HUD,FPDB (Free Poker Database),"Hand tracking, stats database, real-time HUD",Most mature & functional open-source tracker. Supports Hold'em & Omaha.
+Solver (GTO),TexasSolver,"Calculate optimal ranges, bet sizes, frequencies",Fastest and strongest open-source GTO solver currently. Supports Hold'em & Short Deck. GUI + GPU version available.
+````
+
 ### remainder to future me - 
 ````
 authors:-
