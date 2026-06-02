@@ -8,10 +8,10 @@ my current understanding of hive mind : even the humans who think they are propa
 ### poker books and software 
 ````
 Priority,Book Title,Focus Area,Why It's Essential
-#1,The Theory of Poker by David Sklansky,Fundamental Thinking & Concepts,"The foundation. Teaches how to think about poker (Fundamental Theorem, deception, odds, psychology)."
-#2,Applications of No-Limit Hold'em by Matthew Janda,Advanced Strategy & GTO,One of the best modern books for deep NLHE theory and balanced play.
-#3,Modern Poker Theory by Michael Acevedo,GTO & Solver Concepts,Excellent for understanding solver-based strategies.
-#4,The Mathematics of Poker by Bill Chen & Jerrod Ankenman,Pure Math & Probabilities,"Deep dive into EV, combinatorics, game theory (your ""math/card counting"" side)."
+1.The Theory of Poker by David Sklansky,Fundamental Thinking & Concepts,"The foundation. Teaches how to think about poker (Fundamental Theorem, deception, odds, psychology)."
+2.Applications of No-Limit Hold'em by Matthew Janda,Advanced Strategy & GTO,One of the best modern books for deep NLHE theory and balanced play.
+3.Modern Poker Theory by Michael Acevedo,GTO & Solver Concepts,Excellent for understanding solver-based strategies.
+4.The Mathematics of Poker by Bill Chen & Jerrod Ankenman,Pure Math & Probabilities,"Deep dive into EV, combinatorics, game theory (your ""math/card counting"" side)."
 Mental Game,The Mental Game of Poker (Vol 1 & 2) by Jared Tendler,"Psychology, Tilt, Mindset",Critical for long-term mastery and handling variance.
 
 
@@ -28,6 +28,8 @@ authors:-
 3.franrinheit 451 , ray bradbury
 
 4.peter turchin (rise and fail of nations books with history trends)
+
+5. nietzsche
 
 books:-
 1.animal farm
