@@ -1,4 +1,7 @@
 # literature-study
+
+### start with `to kill a mockingbird`
+
 some books i am reading or want to read some day . main aim is to learn what people in past did and what was there thinking in there time , how humans used to be. 
 
 Main aim is , to find if humans were same as they are today or were bit good in past , or is it humanity's nature which is always been repeated again and again, and is it human's nature to follow hive mind mentality 
